@@ -6,6 +6,9 @@ public class Main {
         System.out.println("hello world");
         System.out.println("转换成十进制的a=" + a);
         System.out.println("b = " + b);
+        System.out.println("b = " + b);
+        System.out.println("b = " + b);
+        System.out.println("b = " + b);
     }
 
 }
